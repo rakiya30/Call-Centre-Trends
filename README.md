@@ -29,14 +29,14 @@ In the initil preparation phase, we performed the folloing tasks:
 7. Replaced values Y/N with Yes/No.
 8. Removed Duplicates.
 9. Removed columns that were not relevant to the analysis.
-10. Renamed Columns
+10. Renamed Columns.
 
 
 ![applied steps](https://github.com/rakiya30/Call-Centre-Trends/assets/154539987/c70570eb-7802-4380-88f4-d94b3c5ec79b)
 
 ### Data Modelling
 
-The dataset comprised of just one table that was modelled into into four tables creating a one to many relationship to the fact table
+The dataset comprised of just one table that was modelled into into four tables creating a one to many and a one to one relationship to the fact table.
 
 
 ![Data modelling phone now](https://github.com/rakiya30/Call-Centre-Trends/assets/154539987/d21faf36-50dd-4bfc-afd9-22ae7c7327c8)
@@ -46,7 +46,7 @@ The dataset comprised of just one table that was modelled into into four tables 
 In addition to the data cleaning and data modelling,I created some Mesures to gain critical and deeper insights. 
 
 the following measures were created:
-- Total calls Resolved (
+- Total calls Resolved 
 - Total calls Unresolved
 - Overall customer satisfaction
 - Count of satisfaction Rating
