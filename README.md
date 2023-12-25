@@ -31,9 +31,13 @@ In the initil preparation phase, we performed the folloing tasks:
 9. Removed columns that were not relevant to the analysis.
 10. Renamed Columns
 
+![applied steps](https://github.com/rakiya30/Call-Centre-Trends/assets/154539987/6eb8f064-bdba-4600-9c89-a1c95bf3a9e9)
+
 ### Data Modelling
 
 The dataset comprised of just one table that was modelled into into four tables creating a one to many relationship to the fact table
+
+![Data modelling phone now](https://github.com/rakiya30/Call-Centre-Trends/assets/154539987/e82200d2-bfeb-4b9a-a20c-cdb73f00fdf3)
 
 ### Dax Measures Creation
 
@@ -55,6 +59,9 @@ the following measures were created:
 - what is the average satisfaction rating?
 
 ### Data Analysis/ Insights
+
+
+![Phone Now Call Centre Trends](https://github.com/rakiya30/Call-Centre-Trends/assets/154539987/1dc44628-04ca-486f-a33c-601ab6dc52c3)
 
 The results of my analysis is summarized as follows:
 
