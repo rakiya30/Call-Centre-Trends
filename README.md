@@ -24,7 +24,7 @@ In the initil preparation phase, we performed the folloing tasks:
 2. promoted headers.
 3. handling missing values.
 4. Replacing Null values with 0.
-5. Checked for blank clls and missing values using the column quality check.
+5. Checked for blank cells and missing values using the column quality check.
 6. Changed data type for Date and Time columns.
 7. Replaced values Y/N with Yes/No.
 8. Removed Duplicates.
