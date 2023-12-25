@@ -40,9 +40,10 @@ The dataset comprised of just one table that was modelled into into four tables 
 In addition to the data cleaning and data modelling,I created some Mesures to gain critical and deeper insights. 
 
 the following measures were created:
-- Total calls Resolved
+- Total calls Resolved (
 - Total calls Unresolved
 - Overall customer satisfaction
+- Count of satisfaction Rating
 
 ### Exploratory Data Analysis
 - What is the Overall customer satisfaction?
@@ -52,6 +53,13 @@ the following measures were created:
 - Agents performance quadrant (average handle time talk duration/calls answered)
 - What is the total number of calls resolved?
 - what is the average satisfaction rating?
+
+### Data Analysis/ Insights
+
+The results of my analysis is summarized as follows:
+
+
+
  
 
 
