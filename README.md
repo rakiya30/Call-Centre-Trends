@@ -58,6 +58,16 @@ the following measures were created:
 
 The results of my analysis is summarized as follows:
 
+1. A total of 4054 calls where answered by the agents.
+2. A total of 946 calls were abandoned.
+3. 54.75 accounted for the average speed of answer in seconds.
+4. 40.46 overall customer satisfaction.
+5. Agent Martha had the highest sped of answer in seconds and was 13.14% higher than Stewart which had the lowest speed of answer in seconds.
+6. Accross all 8 agents the speed of answer in second ranged from 31570 - 35717.
+7. Agent Jim had the highest number of calls answered at 536 with an overall satisfaction rate of 40.24%.
+8. Agent Stewart had the highest number of calls abandoned with a total of 105 unanswered calls.
+9. Agent Dan had the highest number of calls answered that was resolved at 471.
+
 
 
  
