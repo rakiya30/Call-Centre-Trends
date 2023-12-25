@@ -36,8 +36,13 @@ In the initil preparation phase, we performed the folloing tasks:
 The dataset comprised of just one table that was modelled into into four tables creating a one to many relationship to the fact table
 
 ### Dax Measures Creation
-In addition to the data cleaning and data modelling. I created some Mesures to gain critical insights. the following measures were created.
--
+
+In addition to the data cleaning and data modelling,I created some Mesures to gain critical and deeper insights. 
+
+the following measures were created:
+- Total calls Resolved
+- Total calls Unresolved
+- Overall customer satisfaction
 
 ### Exploratory Data Analysis
 - What is the Overall customer satisfaction?
