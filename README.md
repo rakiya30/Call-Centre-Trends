@@ -31,13 +31,15 @@ In the initil preparation phase, we performed the folloing tasks:
 9. Removed columns that were not relevant to the analysis.
 10. Renamed Columns
 
-![applied steps](https://github.com/rakiya30/Call-Centre-Trends/assets/154539987/6eb8f064-bdba-4600-9c89-a1c95bf3a9e9)
+
+![applied steps](https://github.com/rakiya30/Call-Centre-Trends/assets/154539987/c70570eb-7802-4380-88f4-d94b3c5ec79b)
 
 ### Data Modelling
 
 The dataset comprised of just one table that was modelled into into four tables creating a one to many relationship to the fact table
 
-![Data modelling phone now](https://github.com/rakiya30/Call-Centre-Trends/assets/154539987/e82200d2-bfeb-4b9a-a20c-cdb73f00fdf3)
+
+![Data modelling phone now](https://github.com/rakiya30/Call-Centre-Trends/assets/154539987/d21faf36-50dd-4bfc-afd9-22ae7c7327c8)
 
 ### Dax Measures Creation
 
@@ -61,7 +63,8 @@ the following measures were created:
 ### Data Analysis/ Insights
 
 
-![Phone Now Call Centre Trends](https://github.com/rakiya30/Call-Centre-Trends/assets/154539987/1dc44628-04ca-486f-a33c-601ab6dc52c3)
+![Phone Now Call Centre Trends](https://github.com/rakiya30/Call-Centre-Trends/assets/154539987/a6aa831d-4d37-4f64-94ba-e6d5dd502f7d)
+
 
 The results of my analysis is summarized as follows:
 
