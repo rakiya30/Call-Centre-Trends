@@ -39,7 +39,7 @@ The dataset used for this analysis was provided by PhoneNow (PWC virtual job sim
 
 - Powerbi (Data Cleaning, Data Modeling, Data Analysis and Visualisation)
 
-  ### Data Cleaning and Preparation
+### Data Cleaning and Preparation
 
 In the initil preparation phase, we performed the folloing tasks:
 1. Data Loading and inspection.
