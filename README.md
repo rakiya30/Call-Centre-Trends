@@ -1,8 +1,30 @@
 ### Phone Now Call-Centre-Trends
 ## An Overview of Long-term Trends in Customer and Agent Behaviour
 
-### Project Overview
+### Table of content
 
+- [Project Overview](#project-overview)
+
+- [Problem Statement](#problem-statement)
+
+- [Data Source](#data-source)
+
+- [Tools](#tools)
+
+- [Data Cleaning And Preparartion](#data-cleaning-and-preparation)
+
+- [Data Modeling](#data-modeling)
+
+- [Dax Measures Creation](#dax-measures-creation)
+
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+
+- [Data Analysis/Insights](#data-analysis-and-insights)
+
+- [Recommendations](#recommendations)
+
+### Project Overview
+---
 This data analysis project aims to provide inghts and recommendation on long- term trends in customer and agent  behaviour that reflects all the relevant Key Performance Indicators(KPIs) and metrics in the dataset. 
 
 ### Problem Statement
@@ -11,7 +33,7 @@ I received an email from Claire, the call centre manager, asking me to create a 
 
 ### Data Source
 
-The dataset used for this analysis was provided by PhoneNow, it consists of 10 columns and 5000 rows
+The dataset used for this analysis was provided by PhoneNow (PWC virtual job simmulation on forage platform) it consists of 10 columns and 5000 rows
 
 ### Tools
 
@@ -34,7 +56,7 @@ In the initil preparation phase, we performed the folloing tasks:
 
 ![applied steps](https://github.com/rakiya30/Call-Centre-Trends/assets/154539987/c70570eb-7802-4380-88f4-d94b3c5ec79b)
 
-### Data Modelling
+### Data Modeling
 
 The dataset comprised of just one table that was modelled into into four tables creating a one to many and a one to one relationship to the fact table.
 
@@ -60,7 +82,7 @@ the following measures were created:
 - What is the total number of calls resolved?
 - what is the average satisfaction rating?
 
-### Data Analysis/ Insights
+### Data Analysis and Insights
 
 
 ![Phone Now Call Centre Trends](https://github.com/rakiya30/Call-Centre-Trends/assets/154539987/a6aa831d-4d37-4f64-94ba-e6d5dd502f7d)
@@ -77,6 +99,18 @@ The results of my analysis is summarized as follows:
 7. Agent Jim had the highest number of calls answered at 536 with an overall satisfaction rate of 40.24%.
 8. Agent Stewart had the highest number of calls abandoned with a total of 105 unanswered calls.
 9. Agent Dan had the highest number of calls answered that was resolved at 471.
+10. Diane and Jim had the highest total number of calls that was unresolved.
+11. Jim also accounted foor the highest average talk duration.
+
+### Recommendations
+
+- Enhance agent training: Identify key patterns and behaviors in customer-agent interactions over time. Use this analysis to improve agent training programs, focusing on areas that require attention or additional development. This will empower agents to better handle customer inquiries and provide more effective solutions.
+
+- Implement self-service options: Identify common customer issues that can be resolved through self-service options. Develop and implement self-service tools such as knowledge bases, FAQs, or automated chatbots. This will enable customers to find answers to their queries independently, reducing the overall workload on agents and improving efficiency.
+
+- Personalize customer interactions: Leverage the insights gained from the analysis to personalize customer interactions. Utilize customer data to understand preferences, history, and previous interactions. This will enable agents to tailor their approach and provide a more personalized experience, leading to higher customer satisfaction and loyalty.
+
+- Continuously monitor and optimize processes: Establish a system for ongoing monitoring of customer-agent interactions and performance metrics. Regularly
 
 
 
